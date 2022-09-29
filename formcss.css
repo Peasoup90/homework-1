@@ -1,15 +1,27 @@
 * {
-    color: darkblue;
+    color: black;
     text-align: justify;
     margin-left: 15px;
-    background-color: wheat;
+    background-color: rgba(126, 27, 30, 0.8);
     
-}
-
-.giphy-embed {
-    padding-left: 0%;
 }
 
 h1 {
     padding-left: 25px;
+}
+
+label {
+    color: deeppink;
+}
+
+input { 
+    font-size: 20px;
+}
+
+button {
+    font-size: 30px;
+    color: aquamarine;
+    font-style: italic;
+    border-color: rgba(0, 0, 0, 0);
+
 }
